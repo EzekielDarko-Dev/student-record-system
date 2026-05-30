@@ -11,8 +11,4 @@ A simple console-based system that allows:
 ## Technologies
 - C++
 - Standard Library (iostream, string)
-
-## How to run
-Compile using:
-g++ student_record_system.cpp -o student_system
-./student_system
+  
